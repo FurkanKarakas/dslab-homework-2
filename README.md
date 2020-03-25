@@ -1,4 +1,5 @@
 # dslab-homework-2
+__Due: 07.04.2020 23:59 CET__
 
 This is a Renku project - basically a git repository with some
 bells and whistles. You'll find we have already created some
